@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Photography Portfolio</title>
+</head>
+<body>
+    <h1>My Photography</h1>
+    <img src="photo1.jpg" alt="Photo 1">
+</body>
+</html>
